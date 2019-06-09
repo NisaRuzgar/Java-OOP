@@ -1,0 +1,14 @@
+DOCTOR Ali Yýlmaz 1
+DOCTOR Ayþe Kapýcý 2
+DOCTOR Selin Özer 3 
+DOCTOR Mehmet Öz 4
+DOCTOR Deniz Hepseri 5
+PATIENT_COMPANION Gözde Aydoðan
+PATIENT_COMPANION Rüzgar Yanar
+PATIENT_COMPANION Ekin Sarý
+PATIENT_COMPANION Güneþ Altýn
+PATIENT_COMPANION Oðuzhan Doðan
+NURSE Elif Kýrmýzý
+NURSE Pelin Soylu
+NURSE Tamer Sezgin
+NURSE Yeliz Enderoðlu
